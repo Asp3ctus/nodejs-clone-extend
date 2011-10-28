@@ -1,0 +1,4 @@
+{
+  "name": "nodejs-clone-extend",
+   "main" : "./merger"
+}
